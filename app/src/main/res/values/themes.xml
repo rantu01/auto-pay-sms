@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.RecvPay" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">#0B6E4F</item>
+        <item name="colorPrimaryVariant">#094F39</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+    </style>
+</resources>
